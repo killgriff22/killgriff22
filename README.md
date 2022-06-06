@@ -1,7 +1,9 @@
 HI<br>
 im a useless trans programmer that likes to act like a 5 year old<br>
-along with that im freelance! if you wanna hire me for small projects just contact me at X-X#0917<br>
-if you want me for contracts or larger projects you're gonna have to wait a couple years (2~ as of making this 4/28/2022) as im a minor<br>
+Discord : X-X#4204<br>
+Twitter : N/A<br>
+Current Project: A neopixel light bar for my car<br>
+Current Open Source Project: IronGrad, A WoW-like top-down rts
 <h1>expirience</h1>
 nodejs | 6 years<br>
 python | 3 years<br>
