@@ -2,8 +2,8 @@ HI<br>
 im a trans programmer that likes to act like a 5 year old<br>
 Discord : X-X#4204<br>
 Twitter : N/A<br>
-Current Project: A neopixel light bar for my car<br>
-Current Open Source Project: IronGrad, A WoW-like top-down rts
+Current Project: Shhhhhh!<br>
+Current Open Source Project: im totally baking a cake :)<br>
 <h1>expirience</h1>
 nodejs | 6 years<br>
 python | 3 years<br>
