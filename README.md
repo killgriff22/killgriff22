@@ -4,3 +4,4 @@ I'm proficient in JS, Python, and C/C++!!<br>
 Discord : thisisx_x<br>
 Current Project: My senior project! (2D platformer in pygame)<br>
 Current Open Source Project: 
+Most recent completed project: [Snake!](killgriff22/snake)
